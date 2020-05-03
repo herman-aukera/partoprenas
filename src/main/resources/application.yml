@@ -1,0 +1,10 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: f092c58a471a1070b969
+            clientSecret: 45d9d50fe3d4cf9796a9bcc8a60eb22b38b027a6
+
+# ... TODO id and secret should be in environment variables
