@@ -14,7 +14,7 @@
 	<packaging>jar</packaging>
 	<name>Partoprenas Rabanera</name>
 	<description>A libre file sharing service</description>
-
+s
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>11</java.version>
